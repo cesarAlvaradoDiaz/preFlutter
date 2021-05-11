@@ -9,7 +9,7 @@ git checkout {branch name} <= go to branch
 git branch <= muestra las ramas y me indica donde estoy parado
 
 para mergear:
-1) estar en la rama donde quiero aplicar mis cambios. OTHERBRANCH Ej me paro en master y mergeo ahi los cambios de la rama
+1) estar en la rama donde quiero aplicar mis cambios. Ej me paro en master y mergeo ahi los cambios de la rama
 git branch
 git checkout master {rama donde aplicar cambios}
 git merge {rama a unir con master}
