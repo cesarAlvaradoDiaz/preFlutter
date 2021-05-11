@@ -1,0 +1,10 @@
+git:
+
+git status <= lista de archivos
+git add {file name} <= graba localmente in state. onready for commit
+git commit -m "{description}"  <= send file/s server remote
+git branch {branch name} <= create branch
+git checkout {branch name} <= go to branch
+git branch <= muestra las ramas y me indica donde estoy parado
+
+
