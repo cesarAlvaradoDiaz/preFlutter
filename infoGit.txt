@@ -16,4 +16,4 @@ git merge {rama a unir con master}
 
 
 git branch -d {nombre de rama} <= elimina rama
-en rama principal
+en rama otherRama
